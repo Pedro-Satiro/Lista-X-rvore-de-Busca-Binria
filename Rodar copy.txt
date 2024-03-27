@@ -1,0 +1,9 @@
+
+Comandos para rodar o codigo:
+gcc -shared -o arvore_busca_binaria.dll arvore_busca_binaria.c
+gcc -shared -o lista_encadeada.dll lista_encadeada.c
+
+Comandos para bibliotecas:
+python -m pip install numpy
+python -m pip install matplotlib
+
